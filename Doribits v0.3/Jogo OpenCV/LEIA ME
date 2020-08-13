@@ -1,0 +1,6 @@
+TRABALHO REALIZADO POR LUIS PHELLIPE PALITOT MORENO E DANILO MEDEIROS DE FARIAS
+
+Na paste externa está o jogo pré-compilado, e na pasta "doribits" estão os códigos.
+O jogo foi feito para rodar SOMENTE no Ubuntu ao dar double-click no doribitsgame, 
+mudando a ativação do texto executável de display para launch ou executando o comando 
+./doribits_menu via terminal. 
